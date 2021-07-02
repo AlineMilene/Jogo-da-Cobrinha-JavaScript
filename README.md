@@ -17,4 +17,4 @@ Recriação do famoso "Jogo da Cobrinha" em JavaScript - Projeto Desenvolvido no
 
 Aline Milene Martins dos Santos
 
-https://www.linkedin.com/in/aline-milene-1b3309193/
+https://www.linkedin.com/in/alinemilene
